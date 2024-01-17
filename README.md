@@ -6,14 +6,20 @@ Welcome to the AWS Cloud Essentials repository, a comprehensive guide to foundat
 
 Key Features:
 
-    Foundational Concepts: Explore the core principles that underpin AWS Cloud, providing a solid understanding of its fundamental components.
+    Foundational Concepts:
+Explore the core principles that underpin AWS Cloud, providing a solid understanding of its fundamental components.
 
-    Service Deep Dives: Delve into detailed explanations and use cases for AWS Compute, Storage, Networking, and Database services. Discover how these services can be leveraged to build scalable and efficient cloud solutions.
+    Service Deep Dives:
+Delve into detailed explanations and use cases for AWS Compute, Storage, Networking, and Database services. Discover how these services can be leveraged to build scalable and efficient cloud solutions.
 
-    Security Best Practices: Learn about essential security measures, ensuring your AWS infrastructure is robust and resilient against potential threats.
+    Security Best Practices:
+Learn about essential security measures, ensuring your AWS infrastructure is robust and resilient against potential threats.
 
-    Architectural Insights: Understand cloud architecture principles, enabling you to design and deploy scalable, reliable, and cost-effective solutions.
+    Architectural Insights:
+Understand cloud architecture principles, enabling you to design and deploy scalable, reliable, and cost-effective solutions.
 
-    Pricing Models: Navigate the intricacies of AWS pricing, gaining insights into cost optimization strategies and effective budgeting.
+    Pricing Models:
+Navigate the intricacies of AWS pricing, gaining insights into cost optimization strategies and effective budgeting.
 
-    Support Mechanisms: Explore AWS support options and best practices for obtaining timely assistance and ensuring a smooth operational experience
+    Support Mechanisms:
+Explore AWS support options and best practices for obtaining timely assistance and ensuring a smooth operational experience
