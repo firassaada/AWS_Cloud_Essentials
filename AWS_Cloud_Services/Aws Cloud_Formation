@@ -6,3 +6,4 @@ the AWS resources you want (such as Amazon EC2 or Amazon RDS DB instances). Once
 You don't need to create and configure these AWS resources one by one, or figure out what they depend on. CloudFormation takes care of this.
 CloudFormation can help you simplify infrastructure management, replicate it quickly, and easily control and track changes to your infrastructure.
 
+![Alt text](image.png)
