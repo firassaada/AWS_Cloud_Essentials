@@ -1,6 +1,8 @@
 # AWS_Cloud_Essentials
 I've earned the AWS Cloud Essentials badge, and this repository is my journey deep into AWS. Delve into foundational concepts, explore AWS services spanning Compute, Storage, Networking, and Databases, and gain insights into security, architecture, pricing, and support. 
-         
+
+![image](https://github.com/firassaada/AWS_Cloud_Essentials/assets/94303698/901ba6fa-5d82-4567-8ef0-de2d392083a9)
+
    # 🌐 AWS Cloud Essentials Repository 🚀
 
 Welcome to the AWS Cloud Essentials repository, a comprehensive guide to foundational AWS Cloud concepts and services. In this repository, I delve into the intricacies of AWS Compute, Storage, Networking, and Database offerings. Gain insights into security best practices, architectural principles, pricing models, and support mechanisms.
