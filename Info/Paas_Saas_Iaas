@@ -1,15 +1,23 @@
 
 
-Cloud computing offers developers the opportunity to focus on the essentials and avoid infrastructure supply, maintenance and capacity planning, or undifferentiated tedious tasks.
+Cloud computing offers developers the opportunity to focus on the essentials and avoid infrastructure supply, maintenance and capacity planning, 
+or undifferentiated tedious tasks.
+With the growing popularity of cloud computing, several different service models have emerged to meet the specific needs of different users. 
+Each type of cloud service offers different levels of abstraction, control, flexibility and management. Seizing the differences between infrastructure as a service (IaaS),
+platform as a service (PaaS) and software as a service (SaaS) can help you choose the type of service best suited to your needs as a developer.
 
-With the growing popularity of cloud computing, several different service models have emerged to meet the specific needs of different users. Each type of cloud service offers different levels of abstraction, control, flexibility and management. Seizing the differences between infrastructure as a service (IaaS), platform as a service (PaaS) and software as a service (SaaS) can help you choose the type of service best suited to your needs as a developer.
-Infrastructure as a service (IaaS):
-The infrastructure as a service (IaaS) contains the fundamental building blocks of computing in the cloud and generally gives access to networking functionalities, computers (virtual or on dedicated hardware) and data storage space. The IaaS service offers the highest level of flexibility and management control with regard to IT resources. This service is very similar to the existing IT resources with which many developers are now familiar.
+# Infrastructure as a service (IaaS):
+The infrastructure as a service (IaaS) contains the fundamental building blocks of computing in the cloud and generally gives access to networking functionalities, 
+computers (virtual or on dedicated hardware) and data storage space. The IaaS service offers the highest level of flexibility and management control with regard to IT resources.
+This service is very similar to the existing IT resources with which many developers are now familiar.
  
-Platform as a service (PaaS)
+# Platform as a service (PaaS)
+Thanks to the platform as a service (PaaS), you no longer need to manage the underlying infrastructure (usually hardware and operating systems) and you can focus on deploying
+and managing your applications. This makes you more efficient, because you don't have to worry about resource provisioning, capability planning, software maintenance, 
+patch application, or undifferentiated tedious tasks related to running your application.
 
-Thanks to the platform as a service (PaaS), you no longer need to manage the underlying infrastructure (usually hardware and operating systems) and you can focus on deploying and managing your applications. This makes you more efficient, because you don't have to worry about resource provisioning, capability planning, software maintenance, patch application, or undifferentiated tedious tasks related to running your application.
-
-Software as a service (SaaS)
-
-Software as a service (Saas) offers a final product that is executed and managed by the service provider. In most cases, people who refer to the Saas service think about end-user applications. With a SaaS offer, you don't have to worry about managing the service or the underlying infrastructure. You just need to think about using this software. A webmail that you can use to send and receive emails without having to manage add-ons or to maintain the servers and operating systems on which it runs is a common example of a SaaS application.
+# Software as a service (SaaS)
+Software as a service (Saas) offers a final product that is executed and managed by the service provider. In most cases, people who refer to the Saas service think about
+end-user applications. With a SaaS offer, you don't have to worry about managing the service or the underlying infrastructure. You just need to think about using this software. 
+A webmail that you can use to send and receive emails without having to manage add-ons or to maintain the servers and operating systems on which it runs is a common example 
+of a SaaS application.
