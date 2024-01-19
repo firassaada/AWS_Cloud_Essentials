@@ -1,9 +1,44 @@
 Virtual Private Cloud :
 Amazon VPC enables you to provision an isolated section of the AWS Cloud. In this isolated section, you can launch resources in a virtual network
 that you define. Within a virtual private cloud (VPC), you can organize your resources into subnets.
+
 Subnet :
 A subnet is a section of a VPC that can contain resources such as Amazon EC2 instances.
+Public subnets contain resources that need to be accessible by the public, such as an online store’s website.
+Private subnets contain resources that should be accessible only through your private network, such as a database that contains customers’ personal
+information and order histories. 
+
 Intrnet Gateway :
 To allow public traffic from internet you attach an internet gateway to the VPC .
-Virtual Private Gateway :
+
+Virtual Private Gateway :(VPN)
 Designed to access priv ressources in a VPC .
+
+Network ACL's :
+A network ACL is a virtual firewall that controls inbound and outbound traffic at the subnet level.
+The default network ACL allows all inbound and outbound traffic . It performs stateless packet filtering
+
+Security groups :
+A security group is a virtual firewall that controls inbound and outbound traffic for an Amazon EC2 instance.
+By default, a security group denies all inbound traffic and allows all outbound traffic. It performs stateful
+packet filtering .
+
+Global Networking : 
+ *DNS:
+  DNS resolution is the process of translating a domain name to an IP address. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
