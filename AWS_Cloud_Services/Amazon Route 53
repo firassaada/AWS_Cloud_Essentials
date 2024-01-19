@@ -1,0 +1,2 @@
+Amazon Route 53 is a scalable and highly available Domain Name System (DNS) web service provided by Amazon Web Services (AWS). It is designed to route end-user requests to 
+globally distributed endpoints, such as Amazon S3 buckets,Elastic Load Balancers, or EC2 instances.
