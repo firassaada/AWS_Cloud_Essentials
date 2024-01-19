@@ -1,0 +1,11 @@
+
+*Aws Artifact
+*EC2
+*ECS
+*ELB   :Elastic Load Balancing
+*Cloud Formation
+*Cloud Trail
+*Cloud Watch
+*SNS   : System Notif Server
+*SQS   : Service Queue Messaging
+*
