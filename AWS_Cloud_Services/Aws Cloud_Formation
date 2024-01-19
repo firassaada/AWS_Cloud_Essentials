@@ -1,9 +1,8 @@
 AWS CloudFormation
-
-Modelling and configuration of AWS resources can take a long time. This is where AWS CloudFormation can be useful. CloudFormation allows you to model and configure
-your AWS resources to spend less time managing resources and more time focusing on your applications. CloudFormation allows you to create a model that describes all 
-the AWS resources you want (such as Amazon EC2 or Amazon RDS DB instances). Once you've created the model, CloudFormation takes on and configures these resources for you.
+CloudFormation allows you to model and configure your AWS resources to spend less time managing resources and more time focusing on your applications.
+CloudFormation allows you to create a model that describes all the AWS resources you want (such as Amazon EC2 or Amazon RDS DB instances).
+Once you've created the model, CloudFormation takes on and configures these resources for you.
 You don't need to create and configure these AWS resources one by one, or figure out what they depend on. CloudFormation takes care of this.
 CloudFormation can help you simplify infrastructure management, replicate it quickly, and easily control and track changes to your infrastructure.
-
+It uses JSON and YAML languages .
 ![Alt text](image.png)
