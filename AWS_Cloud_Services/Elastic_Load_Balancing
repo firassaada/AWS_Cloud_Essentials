@@ -1,0 +1,13 @@
+Elastic Load Balancing is the AWS service that automatically distributes incoming application traffic across multiple resources, such as Amazon EC2 instances. 
+
+
+# Types of ELB :
+ *Classic Load Balancer (CLB):
+It supports routing traffic based on either application or network-level information. 
+
+*Application Load Balancer (ALB):
+The Application Load Balancer operates at the application layer (Layer 7) and is designed to route traffic based on content, such as HTTP/HTTPS.
+ALB supports features like host-based and path-based routing, allowing you to route traffic to different targets based on the content of the request.
+*Network Load Balancer(NLB):
+The Network Load Balancer is designed to handle high volumes of incoming traffic, operating at the transport layer (Layer 4).
+NLB is capable of handling Transmission Control Protocol (TCP), User Datagram Protocol (UDP), and Transport Layer Security (TLS) traffic.
