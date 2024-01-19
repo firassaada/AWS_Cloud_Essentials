@@ -2,3 +2,4 @@
 Amazon Elastic Block Store (Amazon EBS) :
 it is a service that provides block-level storage volumes that you can use with Amazon EC2 instances.
 If you stop or terminate an Amazon EC2 instance, all the data on the attached EBS volume remains available.
+U can create it with hard drives that are not tied directly to the host yu're running EC2 on
