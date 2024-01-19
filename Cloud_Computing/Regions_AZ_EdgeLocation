@@ -1,0 +1,21 @@
+Regions: 
+A Region is where all of the pieces and parts of your application live
+Each Region is made up of multiple data centers.It has at least 2 AZ . 
+The business decision maker, gets to choose which Region you want to run out of. 
+And each Region is isolated from every other Region in the sense that absolutely no data goes in or out of your environment in that Region
+without you explicitly granting permission for that data to be moved.
+
+Factors to choose your region :
+*Compliance : (Do you have a requirement your data must live in UK boundaries? Then you should choose the London Region, full stop.)
+*Proximity : (How close you are to your customer base)
+*feature availability :(Sometimes the closest Region may not have all the AWS features you want )
+*Pricing : (Even when the hardware is equal one Region to the next, some locations are just more expensive to operate in)
+
+Availibility zones :
+AWS calls a single data center or a group of data centers, an Availability Zone
+And as a best practice with AWS, we always recommend you run across at least two Availability Zones in a Region.
+This means redundantly deploying your infrastructure in two different AZs.
+Edge Location :
+An edge location is a site that Amazon CloudFront uses to store cached copies of your content
+closer to your customers for faster delivery.
+They are seperated from regions .
