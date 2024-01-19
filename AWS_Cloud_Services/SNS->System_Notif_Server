@@ -1,0 +1,7 @@
+It enables you to build distributed and scalable applications by allowing the decoupling of the components in a microservices architecture.
+SNS supports the publish-subscribe messaging paradigm, where publishers send messages to topics, and subscribers receive those messages.
+U can send messages and notifs with sns .
+*Topics :
+A topic is an access point for allowing communication between publishers and subscribers. Publishers send messages to topics,
+and subscribers receive messages from topics.
+Multiple subscribers can subscribe to a single topic, and a single message can be delivered to multiple subscribers.
