@@ -1,0 +1,9 @@
+Virtual Private Cloud :
+Amazon VPC enables you to provision an isolated section of the AWS Cloud. In this isolated section, you can launch resources in a virtual network
+that you define. Within a virtual private cloud (VPC), you can organize your resources into subnets.
+Subnet :
+A subnet is a section of a VPC that can contain resources such as Amazon EC2 instances.
+Intrnet Gateway :
+To allow public traffic from internet you attach an internet gateway to the VPC .
+Virtual Private Gateway :
+Designed to access priv ressources in a VPC .
