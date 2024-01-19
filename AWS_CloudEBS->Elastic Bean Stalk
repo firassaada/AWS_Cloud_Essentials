@@ -1,0 +1,4 @@
+Amazon Elastic Beanstalk is a fully managed service offered by Amazon Web Services (AWS) that simplifies the deployment
+and management of applications in various programming languages, frameworks, and environments. 
+It abstracts away the complexities of infrastructure management and allows developers to focus on writing code
+while AWS handles the deployment, scaling, and maintenance tasks.
