@@ -1,0 +1,43 @@
+Amazon Elastic Compute Cloud or EC2 is a service that allows third parties to rent servers on which to run their own web applications. 
+EC2 allows extensible deployment of applications by providing a web interface through which a client can create virtual machines,
+instances of the server, on which the client can load any software of its choice .
+With an Amazon EC2 instance you can use a virtual server to run applications in the AWS Cloud.
+    You can provision and launch an Amazon EC2 instance within minutes.
+    You can stop using it when you have finished running a workload.
+    You pay only for the compute time you use when an instance is running, not when it is stopped or terminated.
+    You can save costs by paying only for server capacity that you need or want.
+
+Amazon EC2 types :
+*General purpose:
+General purpose instances provide a balance of compute, memory, and networking resources
+*Compute optimized:
+Compute optimized instances are ideal for compute-bound applications that benefit from high-performance processors
+*Memory optimized :
+Memory optimized instances are designed to deliver fast performance for workloads that process large datasets in memory. 
+(lots of data to process)
+*Accelerated computing :
+Accelerated computing instances use hardware accelerators, or coprocessors, to perform some functions more efficiently than is possible in software running on CPUs.
+*Storage optimized :
+Storage optimized instances are designed for workloads that require high, sequential read and write access to large datasets on local storage.
+(los of data to store)
+Pricing :
+-On demand          :
+-Savings plans      :  
+-Reserved instances :
+-Spot instances     :
+-Dedicated hosts    :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
