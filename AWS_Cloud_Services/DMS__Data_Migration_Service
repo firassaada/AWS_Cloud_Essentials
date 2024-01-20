@@ -1,0 +1,8 @@
+AWS Database Migration Service (AWS DMS) :
+It enables you to migrate relational databases, nonrelational databases, and other types of data stores from on prem to cloud .
+With AWS DMS, you move data between a source database and a target database. The source and target databasescan be of the same type or different types.
+During the migration, your source database remains operational, reducing downtime for any applications that rely on the database. 
+Other use cases :
+Test DB migrations
+DB cnsolidation(The process of combining multiple DBs to a single one)
+Continuous replication
