@@ -1,2 +1,11 @@
-AWS Artifact is your core resource to which you can refer to to get important information about compliance.
-The service provides on-demand access to AWS security and compliance reports and ISVs that sell their products on the AWS Marketplace.
+AWS Artifact is a service that provides on-demand access to AWS security and compliance reports and select online agreements.
+AWS Artifact consists of two main sections: AWS Artifact Agreements and AWS Artifact Reports.
+
+AWS Artifact Agreements :
+Suppose that your company needs to sign an agreement with AWS regarding your use of certain types of information throughout AWS services.
+You can do this through AWS Artifact Agreements.
+
+AWS Artifact Reports :
+AWS Artifact Reports provide compliance reports from third-party auditors. These auditors have tested and verified that AWS
+is compliant with a variety of global, regional, and industry-specific security standards and regulations. 
+
