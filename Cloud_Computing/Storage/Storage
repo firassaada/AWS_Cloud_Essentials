@@ -7,3 +7,38 @@ and therefore has the same lifespan as the instance. When the instance is termin
 Amazon Elastic Block Store (Amazon EBS) :
 it is a service that provides block-level storage volumes that you can use with Amazon EC2 instances.
 If you stop or terminate an Amazon EC2 instance, all the data on the attached EBS volume remains available.
+
+Amazon EBS snapshots :
+An EBS snapshot is an incremental backup. 
+This means that the first backup taken of a volume copies all the data.
+For subsequent backups, only the blocks of data that have changed since the most recent snapshot are saved. 
+Incremental backups are different from full backups, in which all the data in a storage volume copies each time a backup occurs. 
+The full backup includes data that has not changed since the most recent backup.
+
+Amazon S3 :
+Amazon Simple Storage Service (Amazon S3)(opens in a new tab) is a service that provides object-level storage. Amazon S3 stores data as objects in buckets.
+Object-level storage operates at a high level, treating data as discrete objects.Each object consists of data, metadata, and a unique identifier.
+
+EFS :
+Amazon Elastic File System (Amazon EFS)(opens in a new tab) is a scalable file system used with AWS Cloud services and on-premises resources.
+As you add and remove files, Amazon EFS grows and shrinks automatically. It can scale on demand to petabytes without disrupting application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
