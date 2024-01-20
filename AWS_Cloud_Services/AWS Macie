@@ -1,0 +1,3 @@
+Amazon Macie is a managed security service provided by Amazon Web Services (AWS) that focuses on data discovery, classification, and protection within Amazon S3.
+Macie uses machine learning algorithms to automatically identify and classify sensitive data, helping organizations meet regulatory compliance requirements 
+and enhance overall data security .Macie generates alerts and notifications when it identifies sensitive data or potential security risks
