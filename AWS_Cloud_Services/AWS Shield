@@ -1,0 +1,8 @@
+AWS Shield :
+AWS Shield is a service that protects applications against DDoS attacks. AWS Shield provides two levels of protection: Standard and Advanced.
+
+Standard :
+It auto protects customers at no costs . It uses analyse techniques to detect malicious traffic IRL .
+
+Advanced:
+AWS Shield Advanced is a paid service that provides detailed attack diagnostics and the ability to detect and mitigate sophisticated DDoS attacks. 
