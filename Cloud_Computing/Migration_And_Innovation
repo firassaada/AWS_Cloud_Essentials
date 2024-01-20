@@ -1,0 +1,70 @@
+Cloud adoption framework :
+the AWS Cloud Adoption Framework (AWS CAF)(opens in a new tab) organizes guidance into six areas of focus, called Perspectives.
+
+*Business perspective :
+The Business Perspective ensures that IT aligns with business needs and that IT investments link to key business results.
+
+*People perspective :
+Use it to evaluate organizational structures and roles,new skill resuirements .Common roles : HR ,Peoplemanagers ...
+
+*Governance perspective :
+It establishes a framework of policies and controls to ensure that it operates ethically
+
+*Plateform perspective :
+The Platform Perspective includes principles and patterns for implementing new solutions on the cloud, and migrating on-premises workloads to the cloud.
+
+*Security perspective :
+The Security Perspective ensures that the organization meets security objectives for visibility, auditability, control, and agility. 
+
+*Operations perspective :
+The Operations Perspective helps you to enable, run, use, operate, and recover IT workloads to the level agreed upon with your business stakeholders.
+
+The 6 R's of Migration :
+
+*Rehosting :
+Rehosting also known as “lift-and-shift” involves moving applications without changes. 
+
+*Rplatforming :
+Replatforming, also known as “lift, tinker, and shift,” involves making a few cloud optimizations to realize a tangible benefit.
+Optimization is achieved without changing the core architecture of the application.
+
+*Refactoring :
+Refactoring (also known as re-architecting) involves reimagining how an application is architected and developed by using cloud-native features.
+
+*Repurchasing :
+Repurchasing involves moving from a traditional license to a software-as-a-service model. 
+
+*Retain :
+Retaining consists of keeping applications that are critical for the business in the source environment.
+
+*Retiring :
+Retiring is the process of removing applications that are no longer needed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
