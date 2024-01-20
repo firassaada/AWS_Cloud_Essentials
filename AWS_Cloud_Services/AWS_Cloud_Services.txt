@@ -2,15 +2,25 @@
 *AWS Cli
 *AWS Organisations
 *Amazon Aurora
+*Amazon Comprehend  (Discover patterns in text)
 *Amazon Document DB
+*Amazon Dynamo DB
 *Amazon Inspector
+*Amazon KeySpaces   (A NosSQl DB service compatible with Apache Cassandra)
+*Amazon LaightSail  (Helps to launch and manage virtual private servers,don't support autoscaling)
+*Amazon Lex
 *Amazon Managed Blockchain
 *Amazon Neptune
+*Amazon Polly (It converts text to speech)
 *Amazon QLDB : Quantum Ledger DB 
-*Amazon Dynamo DB
 *Amazon Redshift
 *Amazon Route 53
+*Amazon Textract   (Extracts texts and data)
+*Amazon transcribe (Converts speech to text)
 *Aws Artifact
+*AWS Config        (Helps users to audit and config the aws ressources )
+*AWS DeepRacer
+*AWS GrandStation
 *AWS Macie 
 *AWS Shield
 *Direct Connect
@@ -22,20 +32,35 @@
 *ELB   : Elastic Load Balancing
 *Elastic BeanStalk
 *Elastic cache 
+*ES    : Elastic Search
 *Cloud Formation
 *Cloud Front
 *Cloud Trail
 *Cloud Watch
+*Code Star
+*Code Artifact  (A repo to store artifacts )
+*Code Buld      (Helpsusers to auto compile and run tests on src code)
+*Code Commit    (Version control service  helps users to store and manage src code)
+*Code Pipeline
+*Cost Anomaly Detection(Feature with AWS cost explrer)
 *DMS   : Data Migration Service
+*Discovery service (Collects info about on-premises servers to helpplan a migration to AWS)
 *Dynamo DB Accelerator 
+*Event Bridge : (Simplifies the dev of event driven-Archs,it connects apps udsing events)
 *Fargate Service
+*FSX   :(Helps to launch and run high perf file systems)
 *Guard Duty
 *IAM   : Identity and Access Management
 *KMS   : Key Management Service
+*MGN   : Application Migration Service(Automated 'lift and shift' solution to migrate on premises to cloud)
+*Migration Hub (Helps plan and track app migrations)
 *RDS   : Relational DataBase Service
+*Sage Maker  (Build,Train and deploy ML models)
 *SCPs  :service control policies 
 *SDKs  : Software Development kits
+*Secret Manager : (Helps users organise and manage important configs data such as pwds,keys , ..)
 *SNS   : System Notif Server
+*Snow Family
 *SQS   : Service Queue Messaging
 *S3    : Amazon Simple Storage Service
 *Trusted Advisor
