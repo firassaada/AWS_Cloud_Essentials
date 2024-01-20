@@ -1,0 +1,43 @@
+The AWS Snow Family is a collection of physical devices that help to physically transport up to exabytes of data into and out of AWS. 
+AWS Snow Family is composed of AWS Snowcone, AWS Snowball, and AWS Snowmobile. 
+
+AWS Snowcone :
+It is a small, rugged, and secure edge computing and data transfer device. 
+It features 2 CPUs, 4 GB of memory, and up to 14 TB of usable storage.
+
+AWS Snow Ball :
+There are 2 Types :
+ *Snowball Edge Storage Optimized devices 
+  They are well suited for large-scale data migrations ,in addition to local computing with higher capacity needs. 
+  Storage: 80 TB of (HDD) 
+           1  TB of (SSD)  
+  Compute: 40 vCPUs
+           80 GiB of memory 
+ *Snowball Edge Compute Optimized devices 
+  They are well suited for ML Analytics 
+  Storage: 80 TB of (HDD) 
+           28  TB of (SSD)  
+  Compute: 104 vCPUs
+           416 GiB of memory
+
+AWS Snowmobile :
+It is an exabyte-scale data transfer service used to move large amounts of data to AWS. 
+You can transfer up to 100 petabytes of data per Snowmobile, 
+a 45-foot long ruggedized shipping container, pulled by a semi trailer truck.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
