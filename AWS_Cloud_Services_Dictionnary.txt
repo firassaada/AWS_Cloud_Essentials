@@ -1,6 +1,7 @@
 *AWS Management Console
 *AWS Cli
 *AWS Organisations
+*Aamazon AugmentedAI (Builds the workflows that are required for human review of ML predictions)
 *Amazon Aurora
 *Amazon Comprehend  (Discover patterns in text)
 *Amazon Document DB
@@ -8,7 +9,7 @@
 *Amazon Inspector
 *Amazon KeySpaces   (A NosSQl DB service compatible with Apache Cassandra)
 *Amazon LaightSail  (Helps to launch and manage virtual private servers,don't support autoscaling)
-*Amazon Lex
+*Amazon Lex         (It builds conversional interfaces usinfg voice and text)
 *Amazon Managed Blockchain
 *Amazon Neptune
 *Amazon Polly (It converts text to speech)
