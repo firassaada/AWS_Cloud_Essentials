@@ -1,7 +1,9 @@
 *AWS Management Console
 *AWS Cli
+*AWS Organisations
 *Amazon Aurora
 *Amazon Document DB
+*Amazon Inspector
 *Amazon Managed Blockchain
 *Amazon Neptune
 *Amazon QLDB : Quantum Ledger DB 
@@ -9,6 +11,8 @@
 *Amazon Redshift
 *Amazon Route 53
 *Aws Artifact
+*AWS Macie 
+*AWS Shield
 *Direct Connect
 *EC2
 *EBS   : Elastic Block Storage 
@@ -25,9 +29,14 @@
 *DMS   : Data Migration Service
 *Dynamo DB Accelerator 
 *Fargate Service
+*Guard Duty
+*IAM   : Identity and Access Management
+*KMS   : Key Management Service
 *RDS   : Relational DataBase Service
+*SCPs  :service control policies 
 *SDKs  : Software Development kits
 *SNS   : System Notif Server
 *SQS   : Service Queue Messaging
 *S3    : Amazon Simple Storage Service
+*WAF   : Web Application Firewall 
 
