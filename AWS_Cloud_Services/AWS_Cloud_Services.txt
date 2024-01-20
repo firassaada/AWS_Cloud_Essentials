@@ -38,5 +38,6 @@
 *SNS   : System Notif Server
 *SQS   : Service Queue Messaging
 *S3    : Amazon Simple Storage Service
+*Trusted Advisor
 *WAF   : Web Application Firewall 
 
