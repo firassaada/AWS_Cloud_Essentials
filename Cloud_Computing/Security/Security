@@ -1,0 +1,67 @@
+AWS Shared Model:
+The shared responsibility model divides into customer responsibilities (commonly referred to as “security in the cloud”) 
+and AWS responsibilities (commonly referred to as “security of the cloud”).
+
+Customers : Sec in the cloud :
+Customers are responsible for the security of everything that they create and put in the AWS Cloud.
+When using AWS services, you, the customer, maintain complete control over your content. 
+You are responsible for managing security requirements for your content, including which content you choose to store on AWS,
+which AWS services you use, and who has access to that content. You also control how access rights are granted, managed, and revoked.
+
+AWS : Sec of the cloud :
+AWS operates, manages, and controls the components at all layers of infrastructure. This includes areas such as the host operating system, 
+the virtualization layer, and even the physical security of the data centers from which services operate. 
+AWS is responsible for protecting the global infrastructure that runs all of the services offered in the AWS Cloud.
+This infrastructure includes AWS Regions, Availability Zones, and edge locations.
+
+IAM :
+(Read the iam file on aws services)
+
+Programmatic access to an AWS account :
+To gain this access , you should require an access KEY ID and a secret access Key
+
+AWS organisations :
+You can use AWS Organizations to consolidate and manage multiple AWS accounts within a central location.
+When you create an organization, AWS Organizations automatically creates a root, which is the parent container for all the accounts in your organization. 
+
+service control policies (SCPs) :
+In AWS Organizations, you can centrally control permissions for the accounts in your organization by using service control policies (SCPs).
+SCPs enable you to place restrictions on the AWS services, resources, and individual API actions that users and roles in each account can access.
+
+Organizational units :
+In AWS Organizations, you can group accounts into organizational units (OUs) to make it easier to manage accounts with similar business or security requirements.
+When you apply a policy to an OU, all the accounts in the OU automatically inherit the permissions specified in the policy.  
+
+
+# COMPLIANCE :
+
+AWS Artifact :(AWS services file)
+
+DOS :s
+A denial-of-service (DoS) attack is a deliberate attempt to make a website or application unavailable to users.
+For example, an attacker might flood a website or application with excessive network traffic until the targeted website
+or application becomes overloaded and is no longer able to respond
+DDOS :
+In a distributed denial-of-service (DDoS) attack, multiple sources are used to start an attack that aims to make a website or application unavailable.
+This can come from a group of attackers, or even a single attacker. The single attacker can use multiple infected computers (also known as “bots”) 
+to send excessive traffic to a website or application.
+
+Encryption At rest :
+It is enables when the data is idle(ex:Dynamo DB ecr at rest)
+Encryption in Transit :
+-It is enabled when the data is traveling between aws services or aws service and a client
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
