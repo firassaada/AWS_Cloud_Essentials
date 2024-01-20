@@ -1,0 +1,97 @@
+AWS Fre Tier :
+The AWS Free Tier enables you to begin using certain services without having to worry about incurring costs for the specified period. 
+Three types of offers are available: 
+    Always Free
+    12 Months Free
+    Trials
+
+AWS Pricing concepts :
+*Pay for what you use
+*Use more and Pay less
+*Pay less when you reserve
+
+AWS Pricing Calculator :
+It lets you explore AWS services and create an estimate for the cost of your use cases on AWS. You can organize your AWS estimates by groups that you define.
+A group can reflect how your company is organized, such as providing estimates by cost center.
+
+Billing & Management Dashbard :
+Use the AWS Billing & Cost Management dashboard(opens in a new tab) to pay your AWS bill, monitor your usage, and analyze and control your costs.
+Compare your current month-to-date balance with the previous month, and get a forecast of the next month based on current usage.
+View month-to-date spend by service.
+View Free Tier usage by service.
+Access Cost Explorer and create budgets.
+Purchase and manage Savings Plans.
+Publish AWS Cost and Usage Reports(opens in a new tab).
+
+Consolidated bills :
+The consolidated billing feature of AWS Organizations enables you to receive a single bill for all AWS accounts in your organization.
+By consolidating, you can easily track the combined costs of all the linked accounts in your organization. The default maximum number of accounts
+allowed for an organization is 4, but you can contact AWS Support to increase your quota, if needed.
+Consolidated billing also enables you to share volume pricing discounts across accounts. 
+
+AWS Budgets :
+AWS Budgets
+In AWS Budgets(opens in a new tab), you can create budgets to plan your service usage, service costs, and instance reservations.
+The information in AWS Budgets updates three times a day. This helps you to accurately determine how close your usage is to your 
+budgeted amounts or to the AWS Free Tier limits.
+In AWS Budgets, you can also set custom alerts when your usage exceeds (or is forecasted to exceed) the budgeted amount.
+It updates 3 times a day
+
+AWS Cost Eplorer :
+AWS Cost Explorer
+
+AWS Cost Explorer is a tool that lets you visualize, understand, and manage your AWS costs and usage over time.
+AWS Cost Explorer includes a default report of the costs and usage for your top five cost-accruing AWS services.
+You can apply custom filters and groups to analyze your data. For example, you can view resource usage at the hourly level.
+
+AWS Support
+AWS offers four different Support plans to help you troubleshoot issues, lower costs, and efficiently use AWS services. 
+You can choose from the following Support plans to meet your company’s needs: 
+*Basic :
+ -Free
+ -Limited selection of Trusted Advisor Check
+ -U can use aws personal health
+*Developer:
+ -Client side diagno tols
+ -Building block-architecture support
+*Business :
+ -All aws Trusted Advisor Checks
+ -Limited support for third party software
+ -Provide tech support through phone calls
+*Enterprise On-Ramp :
+ -A pool of tech account managers(TAM) to provide guidance
+ -A concierge support team
+ -30 minutes or less response time for business-critical issues
+*Enterprise
+ -Support automation workflows
+ -15 min response
+
+
+AWS MarketPlace :
+...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
