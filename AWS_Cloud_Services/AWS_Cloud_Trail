@@ -1,2 +1,5 @@
 AWS CloudTrail controls and records the account activity across your entire AWS infrastructure to give you control over storage, analysis, and corrective actions.
-It logs every action taken in an AWS account. 
+It logs every action taken in an AWS account. iT records API calls for your account.
+
+CloudTrail Insights :
+You can also enable CloudTrail Insights This optional feature allows CloudTrail to automatically detect unusual API activities in your AWS account. 
