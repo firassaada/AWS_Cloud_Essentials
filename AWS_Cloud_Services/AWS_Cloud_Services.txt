@@ -1,11 +1,33 @@
-
+*AWS Management Console
+*AWS Cli
+*Amazon Aurora
+*Amazon Document DB
+*Amazon Managed Blockchain
+*Amazon Neptune
+*Amazon QLDB : Quantum Ledger DB 
+*Amazon Dynamo DB
+*Amazon Redshift
+*Amazon Route 53
 *Aws Artifact
+*Direct Connect
 *EC2
-*ECS
-*ELB   :Elastic Load Balancing
+*EBS   : Elastic Block Storage 
+*ECS   : Elastic Container Service
+*EFS   / Elastic File System
+*EKS   : Elastic Kubrnetes Service
+*ELB   : Elastic Load Balancing
+*Elastic BeanStalk
+*Elastic cache 
 *Cloud Formation
+*Cloud Front
 *Cloud Trail
 *Cloud Watch
+*DMS   : Data Migration Service
+*Dynamo DB Accelerator 
+*Fargate Service
+*RDS   : Relational DataBase Service
+*SDKs  : Software Development kits
 *SNS   : System Notif Server
 *SQS   : Service Queue Messaging
-*
+*S3    : Amazon Simple Storage Service
+
