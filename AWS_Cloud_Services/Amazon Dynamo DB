@@ -1,0 +1,5 @@
+Amazon DynamoDB is a fully managed NoSQL database service and a Key-Value DB serviceprovided by Amazon Web Services (AWS).
+It is designed to provide seamless and scalable performance for applications that require low-latency access to data,
+and it's suitable for a variety of use cases ranging from mobile and web applications to backend services.
+It is serverless and does auto scaling .
+It is faster than rdb when u don't need complex analysis .
