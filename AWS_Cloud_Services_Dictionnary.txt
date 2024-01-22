@@ -18,7 +18,8 @@
 *Amazon Route 53
 *Amazon Textract   (Extracts texts and data)
 *Amazon transcribe (Converts speech to text)
-*Aws Artifact
+*AWS Artifact
+*AWS Batch
 *AWS Config        (Helps users to audit and config the aws ressources )
 *AWS DeepRacer
 *AWS GrandStation
