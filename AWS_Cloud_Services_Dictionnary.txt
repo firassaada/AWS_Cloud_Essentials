@@ -23,6 +23,7 @@
 *AWS DeepRacer
 *AWS GrandStation
 *AWS Macie 
+*AWS SAM
 *AWS Shield
 *Direct Connect
 *EC2
