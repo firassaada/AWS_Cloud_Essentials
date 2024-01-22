@@ -1,7 +1,5 @@
-*AWS Management Console
-*AWS Cli
-*AWS Organisations
-*Aamazon AugmentedAI (Builds the workflows that are required for human review of ML predictions)
+
+*Amazon AugmentedAI (Builds the workflows that are required for human review of ML predictions)
 *Amazon Aurora
 *Amazon Comprehend  (Discover patterns in text)
 *Amazon Document DB
@@ -20,10 +18,14 @@
 *Amazon transcribe (Converts speech to text)
 *AWS Artifact
 *AWS Batch
+*AWS CLI
 *AWS Config        (Helps users to audit and config the aws ressources )
 *AWS DeepRacer
 *AWS GrandStation
 *AWS Macie 
+*AWS Management Console
+*AWS Organisations
+*AWS Step Functions
 *AWS SAM
 *AWS Shield
 *Direct Connect
