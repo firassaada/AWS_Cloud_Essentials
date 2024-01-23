@@ -6,6 +6,7 @@
 *Amazon Dynamo DB
 *Amazon Inspector
 *Amazon KeySpaces   (A NosSQl DB service compatible with Apache Cassandra)
+*Amazon Kinesis
 *Amazon LaightSail  (Helps to launch and manage virtual private servers,don't support autoscaling)
 *Amazon Lex         (It builds conversional interfaces usinfg voice and text)
 *Amazon Managed Blockchain
@@ -15,7 +16,7 @@
 *Amazon Redshift
 *Amazon Route 53
 *Amazon Textract   (Extracts texts and data)
-*Amazon transcribe (Converts speech to text)
+*Amazon Transcribe (Converts speech to text)
 *AWS Artifact
 *AWS Batch
 *AWS CLI
