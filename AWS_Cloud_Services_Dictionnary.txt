@@ -39,6 +39,7 @@
 *Elastic BeanStalk
 *Elastic cache 
 *ES    : Elastic Search
+*Event Bridge
 *Cloud Formation
 *Cloud Front
 *Cloud Trail
