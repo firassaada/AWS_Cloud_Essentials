@@ -24,6 +24,9 @@ IAM roles are often used to grant temporary permissions to applications or servi
 
 IAM policies :
 Users or groups can be assigned JSON documents called policies .
+![image](https://github.com/firassaada/AWS_Cloud_Essentials/assets/94303698/430cc836-d9ec-4bbb-953f-b76fbf396a5a)
+
+
 
 
 
