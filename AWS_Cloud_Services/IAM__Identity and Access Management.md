@@ -27,6 +27,10 @@ Users or groups can be assigned JSON documents called policies .
 ![image](https://github.com/firassaada/AWS_Cloud_Essentials/assets/94303698/430cc836-d9ec-4bbb-953f-b76fbf396a5a)
 
 
+IAM Best Practices :
+
+![image](https://github.com/firassaada/AWS_Cloud_Essentials/assets/94303698/d97b60c4-1efa-4ce6-825a-2f19e57a6b06)
+
 
 
 
