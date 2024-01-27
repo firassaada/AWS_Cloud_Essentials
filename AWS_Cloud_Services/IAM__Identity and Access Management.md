@@ -31,6 +31,8 @@ IAM Best Practices :
 
 ![image](https://github.com/firassaada/AWS_Cloud_Essentials/assets/94303698/d97b60c4-1efa-4ce6-825a-2f19e57a6b06)
 
+IAM Summary :
+![image](https://github.com/firassaada/AWS_Cloud_Essentials/assets/94303698/e8325a3c-8b4b-4311-9201-e47afefe4d08)
 
 
 
